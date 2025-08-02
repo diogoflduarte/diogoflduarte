@@ -4,7 +4,7 @@ Lab manager for the AI Experimentation Lab @ [Digital Data Design Institute](htt
 
 
 
-[PhD student at the [Neural Circuits and Behavior Lab](https://careylab.org/) (Carey Lab)] #
+[PhD student at the [Neural Circuits and Behavior Lab](https://careylab.org/) (Carey Lab)]: #
 
 
 <!---
